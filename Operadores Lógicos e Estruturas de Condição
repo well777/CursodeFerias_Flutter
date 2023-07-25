@@ -1,0 +1,11 @@
+void main(){
+  int num = 110;
+  
+  if(num > 10 && num<20){
+    print("Date");
+  } else if(num == 0 || num == 50){
+    print("velho da lancha ");
+  } else if(num != 0 || num != 200){
+    print("matusa");
+  }
+}
