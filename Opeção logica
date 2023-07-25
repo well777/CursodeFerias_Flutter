@@ -1,0 +1,19 @@
+void main() {
+  int n1 = 5;
+  int n2 = 10;
+  
+  int soma = 0;
+  int produto = 0;
+  int subtrai = 0;
+  int dividi = 0;
+  soma = n1 + n2;
+  produto= n1*n2;
+  subtrai = n1-n2;
+  dividi = n1 ~/n2;
+  print("A soma eh: $soma");
+ 
+  print("A multiplicação eh: $produto");
+    print("A subtração eh $subtrai");
+  print("A divisão: $dividi");
+  
+}
