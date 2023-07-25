@@ -1,0 +1,23 @@
+Dart é uma linguagem de programação de alto nível, orientada a objetos, criada pela Google. Ela foi projetada para ser uma linguagem versátil, fácil de aprender, com um forte foco em desempenho, confiabilidade e produtividade do desenvolvedor. Abaixo, estão alguns pontos-chave sobre a linguagem Dart:
+
+Criada pela Google: Dart foi lançada pela Google em 2011, com o objetivo de ser uma alternativa moderna e eficiente para a construção de aplicativos da web e móveis.
+
+Sintaxe Amigável: A sintaxe de Dart é inspirada em outras linguagens de programação populares, como C, Java e JavaScript. Isso torna a linguagem relativamente fácil de aprender para desenvolvedores familiarizados com essas outras linguagens.
+
+Orientação a Objetos: Dart é uma linguagem de programação orientada a objetos, o que significa que ela segue os princípios de encapsulamento, herança e polimorfismo.
+
+Tipagem Forte e Estática: Dart é uma linguagem de tipagem forte, o que significa que as variáveis possuem tipos específicos e essa checagem é realizada em tempo de compilação. No entanto, a partir da versão 2.12, a linguagem também suporta tipagem dinâmica.
+
+Compilação Just-in-Time (JIT) e Ahead-of-Time (AOT): Dart pode ser executada de duas formas: utilizando a compilação JIT, que é mais adequada para o desenvolvimento, e a compilação AOT, que é voltada para a produção e oferece melhor desempenho.
+
+Multiplataforma: Dart é uma linguagem multiplataforma, o que significa que você pode usá-la para desenvolver aplicativos para web, mobile (com o Flutter) e até mesmo aplicativos de linha de comando.
+
+Flutter: O principal destaque da linguagem Dart é o Flutter, um framework desenvolvido pela Google para a criação de interfaces de usuário nativas para aplicativos móveis, web e desktop. O Flutter utiliza o Dart como sua linguagem de programação padrão.
+
+Gerenciamento de Pacotes: O Dart possui o sistema de gerenciamento de pacotes chamado "pub", que permite aos desenvolvedores compartilhar e utilizar bibliotecas facilmente em seus projetos.
+
+Suporte à Programação Funcional: Dart suporta programação funcional, o que significa que você pode trabalhar com funções como cidadãos de primeira classe, realizar operações em listas de maneira concisa e aproveitar a programação assíncrona.
+
+Comunidade Crescente: A comunidade de desenvolvedores Dart tem crescido ao longo dos anos, especialmente com a popularidade crescente do Flutter. Isso levou a um aumento significativo na disponibilidade de bibliotecas e recursos adicionais para a linguagem.
+
+Em resumo, Dart é uma linguagem moderna, versátil e poderosa, especialmente conhecida por ser a linguagem padrão para o desenvolvimento de aplicativos móveis e web usando o framework Flutter. Sua sintaxe amigável e recursos avançados tornam o desenvolvimento de aplicativos mais produtivo e eficiente.
