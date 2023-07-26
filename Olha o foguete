@@ -1,0 +1,21 @@
+
+
+Desenvolva um programa em Dart para simular uma
+contagem regressiva em um foguete espacial prestes a
+ser lançado. Utilize a estrutura de repetição for para
+exibir os números de 10 a 1, representando a sequência
+de contagem regressiva. Cada número deve ser
+exibido em uma linha separada, criando uma atmosfera
+emocionante e ansiosa antes do lançamento.
+
+
+
+
+void main(){
+  print("Preparando para o lançamento...");
+    for(int i = 10; i >=1; i-- ){
+      print(i);
+    }
+      
+print("foguete lançado");
+}
