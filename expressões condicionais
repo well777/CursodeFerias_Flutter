@@ -1,0 +1,14 @@
+void main() {
+
+
+
+	int a = 2;
+	int b = 3;
+
+	int smallNumber = a < b ? a : b;
+	print("$smallNumber é menor");
+	String name = 0;
+
+	String nameToPrint = name ?? "Usuário Convidado";
+	print(nameToPrint);
+}
